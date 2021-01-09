@@ -12,3 +12,7 @@
 
 **DAY 6** => _Functions, Code blocks & While loops_
 
+<<<<<<< HEAD
+=======
+**DAY 7** => _Hangman Project_
+>>>>>>> bca965a7a95231cbb7afc7d124e18339189eb5af
