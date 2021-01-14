@@ -15,3 +15,13 @@
 **DAY 7** => _Hangman Project_
 
 **DAY 8** => _Functions with Inputs & Caesar Cipher (Message Encryption and Decryption)_
+
+**DAY 9** => _Dictionaries and Nesting_
+
+**DAY 10** => _Functions with Outputs_
+
+**DAY 11** => _Blackjack Capstone Project_
+
+**DAY 12** => _Scope: Local vs Global_
+
+**DAY 13** => _Debugging_
