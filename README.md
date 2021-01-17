@@ -25,3 +25,10 @@
 **DAY 12** => _Scope: Local vs Global_
 
 **DAY 13** => _Debugging_
+
+**DAY 14** => _Higher Lower Game Project_
+
+**DAY 15** => _Coffee Making Machine Project_
+
+**DAY 16** => _Object Oriented Programming_
+
