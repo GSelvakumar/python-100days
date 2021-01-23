@@ -32,3 +32,12 @@
 
 **DAY 16** => _Object Oriented Programming_
 
+**DAY 17** => _Quiz Project and Benefits of OOPS_
+
+**DAY 18** => _Turtle & Graphical User Interface_
+
+**DAY 19** => _Event Listeners, State and Multiple Instances_
+
+**DAY 20** => _Turtle Game - Part I_
+
+**DAY 21** => _Inheritance & Turtle Game - Part II_
