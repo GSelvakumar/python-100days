@@ -8,7 +8,7 @@ screen = Screen()
 screen.bgcolor("black")
 screen.setup(height=600, width=800)
 screen.title("Pong")
-screen.tracer(0)  # turns off the animation, so need to turn on the animation manually.
+screen.tracer(0)  # turns off the animation, so need to turn on the animation manually by update() method
 
 r_paddle = Paddle((350, 0))
 l_paddle = Paddle((-350, 0))
