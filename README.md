@@ -43,3 +43,7 @@
 **DAY 21** => _Inheritance & Turtle Game - Part II_
 
 **DAY 22** => _Pong : The Arcade Game_
+
+**DAY 23** => _Sheepish game in Turtle_
+
+**DAY 24** => _Working with local files and Directories_
